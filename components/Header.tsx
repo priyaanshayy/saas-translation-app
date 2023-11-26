@@ -20,7 +20,6 @@ async function Header() {
 
            <div className="flex-1 flex items-center justify-end space-x-4">
              
-              {/*LanguageSelect*/}
 
             <LanguageSelect /> 
 
